@@ -1,12 +1,4 @@
-<h2 align="left">Hi 👋! My name is ali and I'm a ..., from ....</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=790b7611bipme3xgcyhgp7rts90pxg6imohfscqvod27b5l3&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+<p align="left">Hello World!!</p>
 
 ###
 
