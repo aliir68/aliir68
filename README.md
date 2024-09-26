@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://static.vecteezy.com/system/resources/previews/022/592/279/large_2x/computer-hacker-boy-ascii-style-character-image-generative-ai-photo.jpeg"  />
+<img align="right" height="150" src="[https://static.vecteezy.com/system/resources/previews/022/592/279/large_2x/computer-hacker-boy-ascii-style-character-image-generative-ai-photo.jpeg](https://avatars.githubusercontent.com/u/57097453?v=4)"  />
 
 ###
 
